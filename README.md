@@ -80,8 +80,10 @@ gas; the application does not certify compliance with any of them.
 
 ## Reporting a problem
 
-Open an issue here, or write to the address in the package metadata. Please
-say which version and which platform.
+This repository hosts downloads and does not take issues. Write to the
+address in the package metadata — `dpkg -I` on the .deb prints it — or use
+the contact route on the product page. Please say which version, which
+platform, and what you expected to happen.
 
 ---
 
