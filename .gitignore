@@ -1,0 +1,5 @@
+# Nothing is built here. This repository hosts downloads only.
+*.AppImage
+*.deb
+*.appx
+*.exe
